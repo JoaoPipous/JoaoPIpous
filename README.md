@@ -5,7 +5,9 @@
     <h1>
         👽About me
     </h1>
-Hey! I'm João Deliberador, a Computer Science Student at Centro Universitário Filadélfia - UniFil
+😎Hey! I'm João Deliberador, a Computer Science Student at Centro Universitário Filadélfia - UniFil
+🎙️ Always avaliable to learn something new.
+📞 How to reach me: Please, send me an e-mail or add me on Discord: JoaoPipous
 <br></br>
 <sup></sup>
 </div>
