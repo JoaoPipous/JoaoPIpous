@@ -4,13 +4,14 @@
 <div align="center">
     <h1>
         👽About me
-    </h1>
-😎Hey! I'm João Deliberador, a Computer Science Student at Centro Universitário Filadélfia - UniFil
-🎙️ Always avaliable to learn something new.
-📞 How to reach me: Please, send me an e-mail or add me on Discord: JoaoPipous
-<br></br>
-<sup></sup>
-</div>
+        
+### Hi. My name is Joao Deliberador
+
+- 📖I’m currently a Computer Science Student at Centro Universitário Filadélfia - UniFil
+- 🎙️ Always avaliable to learn something new.
+- 📞 How to reach me: Please, send me an e-mail or add me on Discord: JoaoPipous
+
+##
 
  ## 🌐Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-deliberador-a3a388226/) 
