@@ -43,5 +43,8 @@ logo=javascript&logoColor=black">
 # 📊GitHub Stats :
 
 <div align="center">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPipous&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&layout=compact" />
+    </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPipous&show_icons=true&theme=gotham&hide_border=true" />
 </div>
